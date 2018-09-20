@@ -12,7 +12,8 @@ testing-repo
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-# Code of Conduct 1 <a id=coc1></a>
+<a id=coc1></a>
+# Code of Conduct 1
 
 All activities under source{d} projects are governed by the [source{d} code of conduct](https://github.com/src-d/guide/blob/master/.github/CODE_OF_CONDUCT.md).
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
