@@ -2,6 +2,7 @@
 package main
 
 import "context"
+import "fmt"
 
 // here is a line coment
 
@@ -12,6 +13,7 @@ type FileGetter interface {
 }
 
 func main() {
+	fmt.Println("hello world!")
 	/*
 	   multi line
 	   coment here
