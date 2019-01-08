@@ -15,6 +15,8 @@ type FileGetter interface {
 func main() {
 	fmt.Println("hello world")
 	fmt.Println("hello world 2")
+	
+fmt.Println("hello world 3")
 	/*
 	   multi line
 	   coment here
