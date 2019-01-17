@@ -16,7 +16,7 @@ func main() {
 	fmt.Println("hello world")
 	fmt.Println("hello world 2")
 	
-fmt.Println("hello world 3")
+fmt.Println("hello world 3", "very very very very very very very very very very very very very very very long line, that should be reported by lookout")
 	/*
 	   multi line
 	   coment here
