@@ -21,5 +21,6 @@ fmt.Println("hello world 3", "very very very very very very very very very very 
 	   multi line
 	   coment here
 	   new line
+	   NEW
 	*/
 }
