@@ -7,6 +7,8 @@ testing-repo
 - [CoC3](#coc3)
 - [CoC4](#code-of-conduct-4)
 
+This is a very very very very very very very very very very very very very very very very very very long line that should not pass the linter ;)
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
